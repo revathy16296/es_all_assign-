@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\manipal_lab\es_sess_2\test2.uvproj
+Project File Date:  01/28/2021
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling test2.c...
+test2.c(4): warning:  #1295-D: Deprecated declaration pll - give arg types
+test2.c(6): warning:  #951-D: return type of function "main" must be "int"
+test2.c(40): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=992 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"test2.axf" - 0 Error(s), 3 Warning(s).
